@@ -5,6 +5,6 @@ This project was developed during the one week course "Next Level Week - Rockets
 
 ## Technologies used:
 
-- Raect JS
+- Raect Native
 - Typescript
-- Noje JS
+- Node JS
